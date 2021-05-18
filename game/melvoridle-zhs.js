@@ -1,5 +1,6 @@
  var cnItems = {
     _OTHER_: [],
+    'Broken': '損壞的',
     'Black Knight': '黑騎士',
     'Black Dragon': '黑龍',
     'Blue Dragon': '藍龍',
